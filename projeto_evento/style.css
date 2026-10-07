@@ -1,0 +1,114 @@
+    body{
+        color: black;
+        background-color: #072246;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        margin: 0;
+    }
+    header{
+        background-color: #0b4075;
+        text-align: center;
+        font-size: 25px;
+        color: bisque;
+    }
+    header h1{
+        margin: 0;
+    }
+    h1{
+        font-family: fantasy;
+        color: bisque;
+        font-style: italic;
+    }
+    img{
+        text-align: center;
+        
+    }
+    header img{
+        padding: 20px;
+    }
+
+    h2{
+        font-size: 10px;
+        color: bisque;
+        font-size: 25px;
+        font-family:fantasy;
+        font-style: italic;
+    }
+    p{
+        font-size: 5px;
+        margin-bottom: 5px;
+        margin-left: 10px;
+        text-align: left;
+        font-size: 20px;
+    }
+    h3{
+        font-size: 25px;
+        margin-left: 5px;
+        text-align: left;
+        
+    }
+    .sobre{
+        padding-bottom: 10;
+    }
+    
+  
+     .botao{
+        display: block;
+        background-color: #5fabf7;
+        border-left: 4px solid #0b4075;
+        color: white;
+        padding: 5px;
+        margin: 15px;
+        margin: auto;
+        border: none;
+        border-radius: 5px;
+        width: 150px;
+        text-decoration: none;
+        
+        
+     }
+     .botao:hover{
+        background-color: #0b4075;
+     }
+     .programacao p{
+        padding: 10px;
+        color: bisque;
+        margin-right: 10px;
+        display: block;
+        background-color: #0b4075;
+        border-radius: 10px;
+        
+     }
+     .programacao{
+        padding-bottom: 5px;
+     }
+
+     .evento {
+        color: antiquewhite;
+        background-color: #072246;
+        border: 2px dashed #5fabf7;
+        padding: 10px;
+        text-align: center;
+        margin-top: 25px;
+     }
+     .evento h3{
+        text-align: center;
+     }
+     .evento p{
+        text-align: center;
+     }
+     footer p{
+        padding: 20px;
+        display: block;
+        margin: auto;
+        text-align: center;
+     }
+     section{
+        background-color: #b9d9f8;   
+        border-radius: 10px;
+        max-width: 50%;
+        margin: auto;
+        border-left: 4px solid hwb(207 7% 23%);
+        
+     }
+     
